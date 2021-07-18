@@ -1,0 +1,8 @@
+# still dk what this is
+.cache/
+
+# compiler binaries
+proc/*
+
+# thing for clangd
+compile_commands.json
