@@ -4,7 +4,7 @@ because for every update discord pushes their ui gets even worse
 ## not faq
 
 ### how do i install this
-use devtools and add the css manually \
+use devtools and add the css manually
 
 although i might make an installer for this and some other
 scripts i want to automatically run when discord starts
